@@ -1,0 +1,51 @@
+{"ImportId":"QID4"}		What is your gender?
+{"ImportId":"QID66"}		Choose one or more races that you consider yourself to be
+{"ImportId":"QID9"}		First-gen
+{"ImportId":"QID11"}		What is your major? - Selected Choice
+{"ImportId":"QID11_8_TEXT"}		What is your major? - Other - Text
+{"ImportId":"QID43"}		Which year of college are you in?
+{"ImportId":"QID10_TEXT"}		How many years of programming experience do you have? (In years)
+{"ImportId":"QID27_4"}		Answer the following questions about your experience programming so far. - I feel confident completing programming assignments by myself.
+{"ImportId":"QID27_16"}		Answer the following questions about your experience programming so far. - I feel confident completing programming assignments when I am working with someone else (e.g., classmate).
+{"ImportId":"QID27_5"}		Answer the following questions about your experience programming so far. - I feel confident completing programming projects when I have someone to seek help from (e.g., tutor).
+{"ImportId":"QID27_18"}		Answer the following questions about your experience programming so far. - I feel confident finding the steps to solve a programming assignment.
+{"ImportId":"QID27_20"}		Answer the following questions about your experience programming so far. - I feel confident finding ways out when I am stuck on a programming problem.
+{"ImportId":"QID27_21"}		Answer the following questions about your experience programming so far. - I am motivated and engaged in programming and other CS courses.
+{"ImportId":"QID13"}		Do you know about ChatGPT, GitHub Copilot, or any other artificial intelligence (AI) tool for programming?
+{"ImportId":"QID19"}		Which of the following AI tools have you used? Check all that apply. - Selected Choice
+{"ImportId":"QID19_5_TEXT"}		Which of the following AI tools have you used? Check all that apply. - Other similar tool: - Text
+{"ImportId":"QID45"}		Which of the following tasks do you generally use ChatGPT/Copilot for? Check all that apply. - Selected Choice
+{"ImportId":"QID45_12_TEXT"}		Which of the following tasks do you generally use ChatGPT/Copilot for? Check all that apply. - Other (e.g., writing essays): - Text
+{"ImportId":"QID49_1"}		Answer the questions below, based on your experience of the AI system (ChatGPT, Copilot, GPT-4, etc.) you primarily use. - I trust the system's output
+{"ImportId":"QID49_2"}		Answer the questions below, based on your experience of the AI system (ChatGPT, Copilot, GPT-4, etc.) you primarily use. - The output the system produces is as good as that which a highly competent person could produce.
+{"ImportId":"QID49_4"}		Answer the questions below, based on your experience of the AI system (ChatGPT, Copilot, GPT-4, etc.) you primarily use. - I know what will happen the next time I use the system because I understand how it behaves.
+{"ImportId":"QID49_5"}		Answer the questions below, based on your experience of the AI system (ChatGPT, Copilot, GPT-4, etc.) you primarily use. - I believe the output of the the system even when I don‚Äôt know for certain that it is correct.
+{"ImportId":"QID49_6"}		Answer the questions below, based on your experience of the AI system (ChatGPT, Copilot, GPT-4, etc.) you primarily use. - I have a personal preference for using such AI systems for my tasks.
+{"ImportId":"QID49_7"}		Answer the questions below, based on your experience of the AI system (ChatGPT, Copilot, GPT-4, etc.) you primarily use. - Overall, I trust the AI system I use.
+{"ImportId":"QID46_1"}		How much do you agree with the following statements about using AI such as ChatGPT/Copilot for programming? - Using AI helps me complete programming tasks.
+{"ImportId":"QID46_12"}		How much do you agree with the following statements about using AI such as ChatGPT/Copilot for programming? - Using AI helps me when I am stuck while solving programming tasks.
+{"ImportId":"QID46_3"}		How much do you agree with the following statements about using AI such as ChatGPT/Copilot for programming? - Using AI helps improve my knowledge about programming concepts.
+{"ImportId":"QID46_4"}		How much do you agree with the following statements about using AI such as ChatGPT/Copilot for programming? - Using AI makes me feel more confident about programming.
+{"ImportId":"QID46_10"}		How much do you agree with the following statements about using AI such as ChatGPT/Copilot for programming? - Overall, using AI has improved my motivation and engagement in programming/CS.
+{"ImportId":"QID64_1"}		Answer the questions below based on your experience. - I have been encouraged to use AI tools.
+{"ImportId":"QID64_3"}		Answer the questions below based on your experience. - Professionals use AI tools for programming tasks
+{"ImportId":"QID64_6"}		Answer the questions below based on your experience. - Other people I know are using AI tools for programming tasks
+{"ImportId":"QID64_7"}		Answer the questions below based on your experience. - I worry that AI is going to replace programmers.
+{"ImportId":"QID64_8"}		Answer the questions below based on your experience. - I feel less like a real programmer when I use AI systems for programming.
+{"ImportId":"QID39_1"}		Suppose you have been asked to remove the nth node from a linked list. One is written by AI and ano - Code I previously wrote
+{"ImportId":"QID39_2"}		Suppose you have been asked to remove the nth node from a linked list. One is written by AI and ano - Code that my teammate wrote
+{"ImportId":"QID39_3"}		Suppose you have been asked to remove the nth node from a linked list. One is written by AI and ano - AI tools (e.g., ChatGPT, Copilot)
+{"ImportId":"QID39_4"}		Suppose you have been asked to remove the nth node from a linked list. One is written by AI and ano - Code from the internet (e.g., GitHub, StackOverflow)
+{"ImportId":"QID39_5"}		Suppose you have been asked to remove the nth node from a linked list. One is written by AI and ano - Code from an expert developer (e.g., Google engineer)
+{"ImportId":"QID39_6"}		Suppose you have been asked to remove the nth node from a linked list. One is written by AI and ano - Write my own from scratch
+{"ImportId":"QID62"}		Why haven't you used AI tools, such as ChatGPT, Copilot, GPT-4, etc? - Selected Choice
+{"ImportId":"QID61_1"}		Answer the questions below if you were to use an AI system (ChatGPT, Copilot, GPT-4, etc.) - I would trust AI system's output
+{"ImportId":"QID61_2"}		Answer the questions below if you were to use an AI system (ChatGPT, Copilot, GPT-4, etc.) - I believe the output of an AI system would be as good as that which a highly competent professional would produce.
+{"ImportId":"QID61_10"}		Answer the questions below if you were to use an AI system (ChatGPT, Copilot, GPT-4, etc.) - I would understand how the system behaves.
+{"ImportId":"QID61_5"}		Answer the questions below if you were to use an AI system (ChatGPT, Copilot, GPT-4, etc.) - I believe the output from an AI system would be correct.
+{"ImportId":"QID61_6"}		Answer the questions below if you were to use an AI system (ChatGPT, Copilot, GPT-4, etc.) - I would have a personal preference for using such AI systems for my tasks.
+{"ImportId":"QID61_7"}		Answer the questions below if you were to use an AI system (ChatGPT, Copilot, GPT-4, etc.) - Overall, I would trust AI systems.
+{"ImportId":"QID60_1"}		Answer the questions below based on your experience. - I have been encouraged to use AI tools.
+{"ImportId":"QID60_3"}		Answer the questions below based on your experience. - Professionals use AI tools for programming tasks.
+{"ImportId":"QID60_6"}		Answer the questions below based on your experience. - Other people I know are using AI tools for programming tasks.
+{"ImportId":"QID60_7"}		Answer the questions below based on your experience. - I worry that AI is going to replace programmers.
