@@ -1,9 +1,8 @@
-{"ImportId":"QID4"}		What is your gender?
-{"ImportId":"QID66"}		Choose one or more races that you consider yourself to be
-{"ImportId":"QID9"}		First-gen
-{"ImportId":"QID11"}		What is your major? - Selected Choice
-{"ImportId":"QID11_8_TEXT"}		What is your major? - Other - Text
-{"ImportId":"QID43"}		Which year of college are you in?
+{"ImportId":"QID4"}		        What is your gender?
+{"ImportId":"QID66"}		    Choose one or more races that you consider yourself to be
+{"ImportId":"QID9"}		        First-gen
+{"ImportId":"QID11"}		    What is your major? - Selected Choice
+{"ImportId":"QID43"}		    Which year of college are you in?
 {"ImportId":"QID10_TEXT"}		How many years of programming experience do you have? (In years)
 {"ImportId":"QID27_4"}		Answer the following questions about your experience programming so far. - I feel confident completing programming assignments by myself.
 {"ImportId":"QID27_16"}		Answer the following questions about your experience programming so far. - I feel confident completing programming assignments when I am working with someone else (e.g., classmate).
