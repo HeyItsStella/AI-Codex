@@ -157,54 +157,54 @@ Mean answer of each question on a 5 point likert scale:
 ==== AI ====
 Complete tasks alone
 Median Answer: 4.0
-5   15.15%
-4   47.47%
-3   19.19%
-2   14.14%
-1   04.04%
+5   15.15% Strongly Agree
+4   47.47% Agree
+3   19.19% Neutral
+2   14.14% Disagree
+1   04.04% Strongly Disagree
 
 Finding steps to solve a problem
 Median Answer: 4.0
-5   22.22%
-4   52.53%
-3   19.19%
-2   04.04%
-1   02.02%
+5   22.22% Strongly Agree
+4   52.53% Agree
+3   19.19% Neutral
+2   04.04% Disagree
+1   02.02% Strongly Disagree
 
 Finding ways out when they are stuck on a problem
 Median Answer: 4.0
-5   21.21%
-4   48.48%
-3   19.19%
-2   08.08%
-1   03.03%
+5   21.21% Strongly Agree
+4   48.48% Agree
+3   19.19% Neutral
+2   08.08% Disagree
+1   03.03% Strongly Disagree
 ```
 
 ```text
 ==== NONAI ====
 Complete tasks alone
 Median Answer: 4.0
-5   14.81%
-4   40.74%
-3   22.22%
-2   22.22%
-1   00.00%
+5   14.81% Strongly Agree
+4   40.74% Agree
+3   22.22% Neutral
+2   22.22% Disagree
+1   00.00% Strongly Disagree
 
 Finding steps to solve a problem
 Median Answer: 4.0
-5   14.81%
-4   59.26%
-3   11.11%
-2   14.81%
-1   00.00%
+5   14.81% Strongly Agree
+4   59.26% Agree
+3   11.11% Neutral
+2   14.81% Disagree
+1   00.00% Strongly Disagree
 
 Finding ways out when they are stuck on a problem
 Median Answer: 4.0
-4   37.04%
-3   25.93%
-5   18.52%
-2   14.81%
-1   03.70%
+4   37.04% Strongly Agree
+3   25.93% Agree
+5   18.52% Neutral
+2   14.81% Disagree
+1   03.70% Strongly Disagree
 ```
 
 Overall the responses to confidence are positive; with more than 55% for any of the 3 questions being positive, regardless of whether they use AI or not.
